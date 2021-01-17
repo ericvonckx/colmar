@@ -82,6 +82,86 @@ header {
     color: white;
 }
 
+.section-2 {
+    display: flex;
+}
+
+.section-2-1 {
+    width: 60%;
+}
+
+.section-2-1 img {
+    padding: 32px 24px;
+    width: 100%;
+}
+
+.section-2-1 h1 {
+    padding: 0px 24px 24px 24px;
+    margin: 0px;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(58, 56, 56);
+}
+
+.section-2-1 h4 {
+    padding: 0px 24px 32px 24px;
+    margin: 0px;
+    color:rgb(58, 56, 56);
+    font-size: 22px;
+    font-weight: 200;
+}
+
+.section-2-1 p {
+    margin: 0;
+    padding: 0px 24px 32px 24px;
+    color: rgb(58, 56, 56);
+    font-size: 20px;
+}
+
+.right-stack {
+    width: 40%;
+    padding-left: 40px;
+    padding-top: 16px;
+}
+
+.right-stack img {
+    width: 40%;
+    height: auto;
+    padding-left: 16px;
+}
+
+.stack {
+    display: flex;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.stack:hover {
+    background-color: rgb(233, 231, 231);
+    transition-duration: 1s;
+}
+
+.text-2 {
+    color:rgb(58, 56, 56);
+    padding-top: 35px;
+    padding-left: 50px;
+    align-content: center;
+}
+
+.text-2 h3 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.text-2 a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+
+
 
 
 
