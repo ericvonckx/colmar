@@ -159,6 +159,104 @@ header {
     text-decoration: none;
 }
 
+.section-3 {
+    background-color: rgb(233, 231, 231);
+}
+
+.section-3 h1 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.content-3 {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color:rgb(233, 231, 231);
+    margin-left: 72px;
+    margin-right: 72px;
+}
+
+.content-3 img {
+    height: auto;
+    width: 400px;
+}
+
+.text-3 {
+    background-color: white;
+    margin-top: 0px;
+    height: 215px;
+}
+
+.text-3 h3 {
+    margin-top: 0px;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    font-size: 30px;
+    color: rgb(58, 56, 56);
+    font-weight: bold;
+}
+
+.text-3 p {
+    padding-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    margin-right: 16px;
+    color: rgb(58, 56, 56);
+    font-size: 20px;
+}
+
+
+.software {
+    width: 400px;
+    margin-top: 32px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+}
+
+.computer-art {
+    width: 400px;
+    margin-top: 32px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    margin-left: 0px;
+}
+
+.design {
+    width: 400px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 0px;
+}
+
+.data {
+    width: 400px;
+    margin-top: 0px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+}
+
+.business {
+    width: 400px;
+    margin-top: 0px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    margin-left: 0px;
+}
+
+.marketing {
+    width: 400px;
+    margin-top: 0px;
+    margin-bottom: 32px;
+    margin-left: 0px;
+}
+
+
+
 
 
 
